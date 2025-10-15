@@ -3,7 +3,7 @@
 ## Overview
 
 This project was developed as part of CSCB20H3: Introduction to Databases and Web Applications.
-It involved designing and implementing a modern, responsive course website for CSCB20 using HTML and CSS, followed by enhancements with Flask and SQLite in later stages (Assignment 3).
+It involved designing and implementing a modern, responsive course website for CSCB20 using HTML and CSS, followed by enhancements with Flask and SQLite in later stages.
 
 ## Features
 
